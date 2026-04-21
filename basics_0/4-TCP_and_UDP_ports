@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# Displays listening sockets with the PID and program name
+# Displays listening ports with PID and program name
 
 netstat -lpn
